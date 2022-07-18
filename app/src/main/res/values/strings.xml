@@ -1,0 +1,23 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">通知がくる時間割</string>
+    <string name="monday">月</string>
+    <string name="tuesday">火</string>
+    <string name="wednesday">水</string>
+    <string name="thursday">木</string>
+    <string name="friday">金</string>
+    <string name="first_period">1限</string>
+    <string name="second_period">2限</string>
+    <string name="third_period">3限</string>
+    <string name="fourth_period">4限</string>
+    <string name="fifth_period">5限</string>
+    <string name="hint_subject">授業名</string>
+    <string name="hint_room">使用教室</string>
+    <string name="hint_teacher">教員名</string>
+    <string name="hint_email">メールアドレス</string>
+    <string name="room">教室名・部屋番号</string>
+    <string name="teacher_contact">教員連絡先</string>
+    <string name="background">背景色選択</string>
+    <string name="submit">登録</string>
+    <string name="cancel">キャンセル</string>
+    <string name="action_clear">クリア</string>
+</resources>

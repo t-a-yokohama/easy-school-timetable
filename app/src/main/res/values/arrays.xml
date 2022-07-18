@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="grade">
+        <item>1年</item>
+        <item>2年</item>
+        <item>3年</item>
+        <item>4年</item>
+        <item>5年</item>
+        <item>6年</item>
+    </string-array>
+
+    <string-array name="terms">
+        <item>前期</item>
+        <item>後期</item>
+        <item>春学期</item>
+        <item>夏学期</item>
+        <item>秋学期</item>
+        <item>冬学期</item>
+        <item>1学期</item>
+        <item>2学期</item>
+        <item>3学期</item>
+        <item>4学期</item>
+    </string-array>
+</resources>
