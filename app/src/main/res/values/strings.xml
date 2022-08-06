@@ -5,11 +5,15 @@
     <string name="wednesday">水</string>
     <string name="thursday">木</string>
     <string name="friday">金</string>
+    <string name="saturday">土</string>
+    <string name="sunday">日</string>
     <string name="first_period">1限</string>
     <string name="second_period">2限</string>
     <string name="third_period">3限</string>
     <string name="fourth_period">4限</string>
     <string name="fifth_period">5限</string>
+    <string name="sixth_period">6限</string>
+    <string name="seventh_period">7限</string>
     <string name="hint_subject">授業名</string>
     <string name="hint_room">使用教室</string>
     <string name="hint_teacher">教員名</string>
