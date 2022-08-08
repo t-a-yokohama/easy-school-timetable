@@ -24,4 +24,8 @@
     <string name="submit">登録</string>
     <string name="cancel">キャンセル</string>
     <string name="action_clear">クリア</string>
+    <string name="action_export">時間割をエクスポートする</string>
+    <string name="action_import">時間割をインポートする</string>
+    <string name="settings">設定</string>
+    <string name="donate">作者に寄付する</string>
 </resources>
