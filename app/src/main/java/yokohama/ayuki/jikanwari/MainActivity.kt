@@ -4,6 +4,7 @@ import android.app.Activity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Menu
 import android.view.View
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
@@ -64,6 +65,13 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener, Vi
         // Jsonファイルに保存されている状態を表に復元
         grades = getSavedData()
         setTable(getTermData(grades, position.grade, position.term))
+    }
+
+    // アプリバーのメニューをインフレート
+    override fun onCreateOptionsMenu(menu: Menu): Boolean {
+        // ベータ版のため暫定でコメントアウト対応
+        // menuInflater.inflate(R.menu.main_action, menu)
+        return true
     }
 
     // スピナーが選択されたときの処理
