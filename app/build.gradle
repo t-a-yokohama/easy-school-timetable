@@ -5,12 +5,12 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "yokohama.ayuki.jikanwari"
-        minSdk 24
-        targetSdk 32
+        minSdk 27
+        targetSdk 33
         versionCode 1
         versionName "0.1.0"
 
