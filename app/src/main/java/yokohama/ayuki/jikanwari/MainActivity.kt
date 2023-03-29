@@ -69,8 +69,7 @@ class MainActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener, Vi
 
     // アプリバーのメニューをインフレート
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        // ベータ版のため暫定でコメントアウト対応
-        // menuInflater.inflate(R.menu.main_action, menu)
+        menuInflater.inflate(R.menu.main_action, menu)
         return true
     }
 
