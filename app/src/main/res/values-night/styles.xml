@@ -1,6 +1,6 @@
 <resources>
 
-    <style name="Widget.Theme.通知がくる時間割.MyView" parent="">
+    <style name="Widget.Theme.かんたん時間割.MyView" parent="">
         <item name="android:background">@color/gray_600</item>
     </style>
 </resources>

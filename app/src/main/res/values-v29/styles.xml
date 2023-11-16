@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Widget.Theme.通知がくる時間割.MyView" parent="Theme.AppCompat.Light">
+    <style name="Widget.Theme.かんたん時間割.MyView" parent="Theme.AppCompat.Light">
         <item name="android:forceDarkAllowed">false</item>
         <item name="android:background">@color/gray_400</item>
     </style>

@@ -11,8 +11,9 @@ android {
         applicationId "yokohama.ayuki.jikanwari"
         minSdk 27
         targetSdk 34
-        versionCode 3
-        versionName "0.2.0"
+        versionCode 4
+        versionName "1.0.0"
+        ndk.abiFilters 'armeabi-v7a','arm64-v8a','x86','x86_64'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
