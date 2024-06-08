@@ -6,10 +6,8 @@
 - 詳細画面から、登録したメールアドレス宛のメールを作成できます
   
 ## 環境
-- Android Studio Chipmunk | 2021.2.1 Patch 1
-  - Kotlin plugin 212-1.7.10-release-333-AS5457.46
-  - kotlinx-serialization version 1.3.3
-  - preference-ktx version 1.2.0
+- kotlinx-serialization version 1.3.3
+- preference-ktx version 1.2.1
   
 ## インストール
 1. https://developer.android.com/studio から Android Studio をダウンロード
@@ -35,10 +33,8 @@ ict.engineer@ayuki.yokohama
 - You can create an email to your teacher's email address from the details screen
 
 ## Requirement
-- Android Studio Chipmunk | 2021.2.1 Patch 1
-  - Kotlin plugin 212-1.7.10-release-333-AS5457.46
-  - kotlinx-serialization version 1.3.3
-  - preference-ktx version 1.2.0
+- kotlinx-serialization version 1.3.3
+- preference-ktx version 1.2.1
   
 ## Installation
 1. Download Android Studio from https://developer.android.com/studio
