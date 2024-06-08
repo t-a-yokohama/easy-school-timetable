@@ -14,7 +14,7 @@
 ## インストール
 1. https://developer.android.com/studio から Android Studio をダウンロード
 2. 画面の指示に従ってインストール
-3. 任意のディレクトリで```$ git clone https://github.com/t-a-yokohama/school-timetable-with-notification.git```を実行
+3. 任意のディレクトリで```$ git clone https://github.com/t-a-yokohama/easy-school-timetable.git```を実行
 
 ## 作者
 t-a-yokohama  
