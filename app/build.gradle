@@ -37,6 +37,7 @@ android {
     viewBinding {
         enabled true
     }
+    namespace 'yokohama.ayuki.jikanwari'
 }
 
 dependencies {
